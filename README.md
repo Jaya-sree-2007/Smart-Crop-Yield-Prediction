@@ -9,6 +9,8 @@ The Smart Crop Yield Prediction System uses Machine Learning and Artificial Inte
 ![image_alt](https://github.com/Jaya-sree-2007/Smart-Crop-Yield-Prediction/blob/fdfe360fca4116ec316f4287f8491adf8fb3cfe3/loginn.png)
 ![image_alt](https://github.com/Jaya-sree-2007/Smart-Crop-Yield-Prediction/blob/e438fd4391840f2ac4f0a180efd062f387d6b080/Dashboard.png)
 ![image_alt](https://github.com/Jaya-sree-2007/Smart-Crop-Yield-Prediction/blob/9037fa2ebeda24d6761ee89b025266983d8a987b/crop_prediction.png)
+![image_alt](https://github.com/Jaya-sree-2007/Smart-Crop-Yield-Prediction/blob/3328c23d31f071e0b396c3eaa5fde0e217f73e33/ai_agriculture_assistan)
+
 
 ## ✨ Features
 
