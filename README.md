@@ -56,27 +56,6 @@ The Smart Crop Yield Prediction System uses Machine Learning and Artificial Inte
 
 
 
-## 📂 Project Structure
-
-```text
-SmartCropYieldPrediction/
-│
-├── app.py
-├── db.py
-├── requirements.txt
-├── README.md
-├── dataset.csv
-├── crop_yield_model.pkl
-├── screenshots/
-│   ├── login.png
-│   ├── dashboard.png
-│   ├── train_model.png
-│   ├── prediction.png
-│   ├── ai_assistant.png
-│   └── report.png
-└── assets/
-```
-
 ## 🚀 Installation
 
 1. Clone the repository
@@ -110,7 +89,6 @@ streamlit run app.py
 * Weather Forecast Integration
 * Real-Time Market Price Analysis
 * Mobile Application Support
-* Advanced Deep Learning Models
 * Multilingual AI Agriculture Assistant
 * IoT Sensor Integration
 
