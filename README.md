@@ -5,7 +5,7 @@ An AI-powered agriculture platform that helps farmers and agricultural professio
 ## 📌 Project Overview
 
 The Smart Crop Yield Prediction System uses Machine Learning and Artificial Intelligence to estimate crop yield based on various agricultural and environmental parameters. The system provides secure user authentication, model training capabilities, data visualization dashboards, and an AI Agriculture Assistant to support informed farming decisions.
-
+![image_alt]
 ## ✨ Features
 
 ### 🔐 User Authentication
