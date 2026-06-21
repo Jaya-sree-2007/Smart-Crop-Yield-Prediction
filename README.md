@@ -5,55 +5,24 @@ An AI-powered agriculture platform that helps farmers and agricultural professio
 ## 📌 Project Overview
 
 The Smart Crop Yield Prediction System uses Machine Learning and Artificial Intelligence to estimate crop yield based on various agricultural and environmental parameters. The system provides secure user authentication, model training capabilities, data visualization dashboards, and an AI Agriculture Assistant to support informed farming decisions.
+
 ![image_alt](https://github.com/Jaya-sree-2007/Smart-Crop-Yield-Prediction/blob/0a6fe1206afcc0e42e6979f8033e80111ac44548/loginn.png)
 ![image_alt](https://github.com/Jaya-sree-2007/Smart-Crop-Yield-Prediction/blob/e438fd4391840f2ac4f0a180efd062f387d6b080/Dashboard.png)
-![image_alt]
+![image_alt](https://github.com/Jaya-sree-2007/Smart-Crop-Yield-Prediction/blob/9037fa2ebeda24d6761ee89b025266983d8a987b/crop_prediction.png)
 
 ## ✨ Features
 
 ### 🔐 User Authentication
 
-* User Registration
-* Secure Login System
-* Session Management
-* Protected Dashboard Access
-
 ### 📊 Dashboard
-
-* Interactive Dashboard
-* Agricultural Data Visualization
-* Prediction History
-* Performance Analytics
-* User-Friendly Interface
 
 ### 🤖 Train Model Module
 
-* Upload Agricultural Dataset
-* Train Machine Learning Models
-* Evaluate Model Performance
-* Save Trained Models
-* Generate Prediction Reports
-
 ### 🌾 Crop Yield Prediction
-
-* Predict Crop Yield
-* Input Agricultural Parameters
-* Real-Time Prediction Results
-* Yield Analysis and Insights
 
 ### 🧠 AI Agriculture Assistant
 
-* AI-Based Farming Guidance
-* Crop Recommendations
-* Agricultural Query Support
-* Smart Farming Suggestions
-* Best Practice Recommendations
-
 ### 📄 Report Generation
-
-* Download Prediction Reports
-* Export Results
-* Data Summary Reports
 
 ---
 
